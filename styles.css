@@ -1,3 +1,16 @@
+@font-face {
+  font-family: "Pixelify Sans";
+  src: url("assets/fonts/PixelifySans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Pixeboy";
+  src: url("assets/fonts/Pixeboy.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -125,8 +138,8 @@ select {
   text-align: center;
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: #A485FF;
-  font-family: "Pixelify Sans";
-  font-size: 24px;
+  font-family: "Pixeboy";
+  font-size: 32px;
   font-style: normal;
   font-weight: 400;
   line-height: normal;
