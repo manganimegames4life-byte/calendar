@@ -18,3 +18,5 @@ What each file does:
 - package-lock.json, package.json: used by "npm install" to recreate node_modules, the package.json contains " "start": "electron ." "which is what allow "npm run start" to work
 - script.js: to create functions to get date and update calendar
 - styles.css: styles to make it pretty
+
+HELLO WORLD and HAPPY CODING!!!!
